@@ -12,6 +12,7 @@ Repo for showcasing assignments and getting peer reviews
 #### Lab 2: Intro to Node.js, NPM, and Babel
 
 [To do List](http://citstudent.lanecc.net/~blasherd702/todolist/)
+
 [Bookmarker](http://citstudent.lanecc.net/~blasherd702/bookmarker/)
 
 #### Lab 3: Webpack and HTML Canvas
