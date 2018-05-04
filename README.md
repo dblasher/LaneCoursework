@@ -9,7 +9,7 @@ Repo for showcasing assignments and getting peer reviews
 
 [Stop Watch](http://citstudent.lanecc.net/~blasherd702/stopwatch/)
 
-#### Lab 2: Intro to Node.js, NPM, and Babel
+#### Lab 2: Intro to Node.js, NPM, Babel, and localStorage
 
 [To do List](http://citstudent.lanecc.net/~blasherd702/todolist/)
 
