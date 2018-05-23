@@ -25,7 +25,7 @@ Repo for showcasing assignments and getting peer reviews
  
 [Bookmarker part 2 using opengraph api](http://citstudent.lanecc.net/~blasherd702/bookmarker/)
 
-[Weather](**_coming soon_**)
+[Weather app using OpenWeatherMap](http://citstudent.lanecc.net/~blasherd702/weather/)
 
 ## C`#`
 Will be awhile before I have my programs hosted for web viewing. Maybe download links for now
