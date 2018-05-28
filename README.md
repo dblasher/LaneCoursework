@@ -27,5 +27,13 @@ Repo for showcasing assignments and getting peer reviews
 
 [Weather app using OpenWeatherMap (*incomplete, must style*)](http://citstudent.lanecc.net/~blasherd702/weather/)
 
+#### Lab 5: More API Calls, /Get, /Post
+[Event Registration (*Lane server not currently allowing express server on their port 3000)](http://citstudent.lanecc.net/~blasherd702/event/)
+
+#### Lab 6: Intro to React
+[React Tac Toe]()
+
+[React Weather]()
+
 ## C`#`
 Will be awhile before I have my programs hosted for web viewing. Maybe download links for now
