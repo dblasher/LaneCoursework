@@ -31,9 +31,9 @@ Repo for showcasing assignments and getting peer reviews
 [Event Registration (*Lane server not currently allowing express server on their port 3000*)](http://citstudent.lanecc.net/~blasherd702/event/)
 
 #### Lab 6: Intro to React
-[React Tac Toe]()
+[React Tac Toe](http://citstudent.lanecc.net/~blasherd702/reactTacToe/)
 
-[React Weather]()
+[React Weather](http://citstudent.lanecc.net/~blasherd702/reactWeather/)
 
 ## C`#`
 Will be awhile before I have my programs hosted for web viewing. Maybe download links for now
